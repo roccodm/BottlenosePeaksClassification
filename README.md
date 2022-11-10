@@ -16,16 +16,4 @@ Simple bottlenose dolphin click detector with easy classification
  in this release, since it is the same showed in chapter 4.1 of the
  cited Zimmer et al. book.
 ---------------------------------------------------------------------
- Usage:
-      This software has been developed and tested using GNU octave,
-      version 5.2.0.
-      A full/relative path filename of the wavefile to be processed 
-      can be passed as command line argument.
-      A recording block to be used as noise referece must be specified
-      assigning the correct filename to the noise_wav variable 
-
- Output:
-      Peaks are detected and (pseudo) classified and printed directly
-      on the standard output
----------------------------------------------------------------------
 ```
